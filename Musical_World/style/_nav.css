@@ -1,0 +1,30 @@
+.navbar-custom {
+    background-color: #e8906b;
+    /* Navbar background color */
+}
+
+.navbar-custom .navbar-brand {
+    color: #ffffff;
+    /* Brand/logo text color */
+}
+
+.navbar-custom .navbar-nav .nav-link {
+    color: #ffffff;
+    /* Navbar links text color */
+}
+
+.navbar-custom .navbar-toggler-icon {
+    background-color: #cd6c6c;
+    /* Navbar toggle icon color */
+}
+
+img {
+
+    width: 27px;
+}
+
+.nav-link {
+    font-family: 'Zeyada', cursive;
+    font-size: 1.3rem;
+
+}

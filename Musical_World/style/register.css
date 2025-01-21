@@ -1,0 +1,90 @@
+body {
+    background-image: url('bg_image_music.jpg'); /* Replace 'sample.jpg' with your image file path or URL */
+    background-size: cover; /* Ensures the image covers the entire body */
+    background-repeat: no-repeat; /* Prevents the image from repeating */
+    background-attachment: fixed; /* Fixed background, so it doesn't scroll with content */
+    background-position: center center; /* Center the background image horizontally and vertically */
+    background-color: rgba(34, 34, 34, 0.7); /* RGBA color for background with 0.7 (70%) opacity */
+    color: #ffffff; /* Text color on top of the background image */
+    font-family: Arial, sans-serif; /* Choose your preferred font */
+    /* padding: 20px; Add some padding to the body content */
+    /* margin: 0; Remove any default margin */
+}
+
+#Form {
+    max-width: 500px; /* Adjust the maximum width as needed */
+    margin: 0 auto; /* Center the container horizontally */
+    padding: 20px; /* Add some padding for spacing inside the container */
+    border: 1px solid #ccc; /* Border around the container */
+    border-radius: 5px; /* Rounded corners for the container */
+    margin-top: 9px;
+}
+
+h1 {
+    text-align: center; /* Center-align the heading */
+    margin: 20px 0; /* Add some top and bottom margin for spacing */
+}
+
+form {
+    margin: 20px; /* Add margin around the form for spacing */
+}
+
+.form-label {
+    font-weight: bold; /* Make labels bold */
+}
+
+.form-control {
+    color: white;
+    width: 100%; /* Take up the full width of the container */
+    padding: 10px; /* Add padding inside input fields */
+    margin: 5px 0; /* Add spacing between input fields */
+    background-color: rgba(255, 255, 255, 0.2);
+}
+
+.form-text {
+    font-size: 12px; /* Reduce the font size of the form text */
+    color: #fff8f8; /* Change the text color of the form text */
+}
+
+.btn {
+    margin: 10px 5px; /* Add margin around the buttons for spacing */
+}
+
+#submit {
+    /* background-color: #b14e23; Primary button background color */
+    color: #ffffff; /* Text color of primary button */
+    border: none; /* Remove button border */
+    padding: 10px 20px; /* Padding inside the button */
+    cursor: pointer; /* Change cursor to pointer on hover */
+    border-radius: 5px; /* Rounded corners for buttons */
+}
+
+#ClearForm{
+    color: #ffffff; /* Text color of primary button */
+    border: none; /* Remove button border */
+    padding: 10px 20px; /* Padding inside the button */
+    cursor: pointer; /* Change cursor to pointer on hover */
+    border-radius: 5px; /* Rounded corners for buttons */
+
+}
+#submit:hover {
+    background-color: #7e2e13; /* Button color change on hover */
+}
+
+/* Additional styling for the "Clear Form" button */
+input[type="reset"] {
+    /* background-color: #ccc; Button background color */
+    color: #929292; 
+    border: none; /* Remove button border */
+    padding: 10px 20px; /* Padding inside the button */
+    cursor: pointer; /* Change cursor to pointer on hover */
+    border-radius: 5px; /* Rounded corners for the button */
+}
+
+input[type="reset"]:hover {
+    background-color: #999; /* Button color change on hover */
+}
+
+.login_text{
+   
+    margin-left: 28px;}
