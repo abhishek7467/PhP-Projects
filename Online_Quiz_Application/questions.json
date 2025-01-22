@@ -1,0 +1,273 @@
+{
+"questions": [
+{
+"question": "What is the full form of CPU?",
+"options": [
+"Central Processing Unit",
+"Central Power Unit",
+"Central Performance Unit",
+"Central Programming Unit"
+],
+"answer": "Central Processing Unit"
+},
+{
+"question": "Which of the following is not an input device?",
+"options": [
+"Keyboard",
+"Mouse",
+"Monitor",
+"Scanner"
+],
+"answer": "Monitor"
+},
+{
+"question": "Which of the following is not a type of printer?",
+"options": [
+"Inkjet",
+"Laser",
+"Dot matrix",
+"Monitor"
+],
+"answer": "Monitor"
+},
+{
+"question": "Which of the following is not a type of computer memory?",
+"options": [
+"RAM",
+"ROM",
+"CPU",
+"Cache"
+],
+"answer": "CPU"
+},
+{
+"question": "Which of the following is not a type of computer network?",
+"options": [
+"LAN",
+"WAN",
+"MAN",
+"CAN"
+],
+"answer": "CAN"
+},
+{
+"question": "Which of the following is not a type of computer virus?",
+"options": [
+"Trojan",
+"Worm",
+"Spyware",
+"Firewall"
+],
+"answer": "Firewall"
+},
+{
+"question": "Which of the following is not a type of computer file?",
+"options": [
+"Text file",
+"Image file",
+"Audio file",
+"Video file"
+],
+"answer": "Video file"
+},
+{
+"question": "Which of the following is not a type of computer software?",
+"options": [
+"System software",
+"Application software",
+"Hardware software",
+"Utility software"
+],
+"answer": "Hardware software"
+},
+{
+"question": "Which of the following is not a type of computer port?",
+"options": [
+"USB",
+"HDMI",
+"VGA",
+"CPU"
+],
+"answer": "CPU"
+},
+{
+"question": "Which of the following is not a type of computer monitor?",
+"options": [
+"CRT",
+"LCD",
+"LED",
+"CPU"
+],
+"answer": "CPU"
+},
+{
+"question": "Which of the following is not a type of computer keyboard?",
+"options": [
+"QWERTY",
+"AZERTY",
+"QWERTZ",
+"DVORAK"
+],
+"answer": "DVORAK"
+},
+{
+"question": "Which of the following is not a type of computer mouse?",
+"options": [
+"Optical",
+"Mechanical",
+"Wireless",
+"Touchpad"
+],
+"answer": "Touchpad"
+},
+{
+"question": "Which of the following is not a type of computer operating system?",
+"options": [
+"Windows",
+"Linux",
+"Mac OS",
+"iOS"
+],
+"answer": "iOS"
+},
+{
+"question": "Which of the following is not a type of computer programming language?",
+"options": [
+"Java",
+"Python",
+"Ruby",
+"HTML"
+],
+"answer": "HTML"
+},
+{
+"question": "Which of the following is not a type of computer storage device?",
+"options": [
+"Hard disk drive",
+"Solid-state drive",
+"Compact disc",
+"Random access memory"
+],
+"answer": "Random access memory"
+},
+{
+"question": "Which of the following is not a type of computer graphics?",
+"options": [
+"2D",
+"3D",
+"Vector",
+"Audio"
+],
+"answer": "Audio"
+},
+{
+"question": "Which of the following is not a type of computer input?",
+"options": [
+"Text",
+"Image",
+"Audio",
+"Video"
+],
+"answer": "Video"
+},
+{
+"question": "Which of the following is not a type of computer output?",
+"options": [
+"Text",
+"Image",
+"Audio",
+"Video"
+],
+"answer": "Video"
+},
+{
+"question": "Which of the following is not a type of computer peripheral?",
+"options": [
+"Printer",
+"Scanner",
+"Monitor",
+"CPU"
+],
+"answer": "CPU"
+},
+{
+"question": "Which of the following is not a type of computer display resolution?",
+"options": [
+"720p",
+"1080p",
+"1440p",
+"2160p"
+],
+"answer": "2160p"
+},
+{
+"question": "Which of the following is not a type of computer input device?",
+"options": [
+"Microphone",
+"Webcam",
+"Printer",
+"Scanner"
+],
+"answer": "Printer"
+},
+{
+"question": "Which of the following is not a type of computer output device?",
+"options": [
+"Speaker",
+"Headphones",
+"Printer",
+"Scanner"
+],
+"answer": "Scanner"
+},
+{
+"question": "Which of the following is not a type of computer storage capacity?",
+"options": [
+"Byte",
+"Kilobyte",
+"Megabyte",
+"Gigabyte"
+],
+"answer": "Gigabyte"
+},
+{
+"question": "Which of the following is not a type of computer file format?",
+"options": [
+"MP3",
+"JPEG",
+"PNG",
+"HTML"
+],
+"answer": "HTML"
+},
+{
+"question": "Which of the following is not a type of computer network topology?",
+"options": [
+"Bus",
+"Ring",
+"Star",
+"Square"
+],
+"answer": "Square"
+},
+{
+"question": "Which of the following is not a type of computer virus protection?",
+"options": [
+"Firewall",
+"Antivirus",
+"Spyware",
+"Malware"
+],
+"answer": "Spyware"
+},
+{
+"question": "Which of the following is not a type of computer programming paradigm?",
+"options": [
+"Object-oriented",
+"Procedural",
+"Functional",
+"Linear"
+]
+}
+]
+}

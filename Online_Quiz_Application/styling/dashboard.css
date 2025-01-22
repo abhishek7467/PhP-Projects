@@ -1,0 +1,111 @@
+/* CSS for beautifying the code */
+
+/* Styling for the container */
+.container {
+    margin: 20px;
+  }
+  
+  /* Styling for the first container */
+  .first-container {
+    background-color: #f9f9f9;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Styling for the second container */
+  .second-container {
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Styling for the h1 element */
+  h1 {
+    font-size: 2em;
+    font-weight: bold;
+    color: #333;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 10px;
+    background-color: #f2f2f2;
+    border-radius: 4px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    line-height: 1.2;
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Styling for the h3 element */
+  h3 {
+    font-size: 18px;
+    color: #666;
+    margin-bottom: 20px;
+  }
+  
+  /* Styling for the card */
+  .card {
+    width: 100%;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Styling for the text inside the card */
+  .card-text {
+    color: #fff;
+  }
+  
+  /* Styling for the card background */
+  .card-img {
+    object-fit: cover;
+    height: 350px;
+  }
+  
+  /* Styling for the card overlay */
+  .card-img-overlay {
+    background-color: rgba(0, 0, 0, 0.7);
+    padding: 20px;
+  }
+  
+  /* Styling for the card title */
+  .card-title {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  /* Styling for the card timestamp */
+  .card-text small {
+    font-size: 12px;
+    opacity: 0.8;
+  }
+  
+  /* Styling for the row */
+  .row {
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  .card-img-second{
+    /* object-fit: cover; */
+    height: 350px;
+    width: auto;
+  }
+  
+  /* Column layout for medium-sized screens and above */
+  /* @media (min-width: 768px) {
+    .col-md-6 {
+      width: 50%;
+      flex: 0 0 50%;
+    }
+  } */
+
+
+  @media (min-width: 1200px){
+.container, .container-lg, .container-md, .container-sm, .container-xl {
+    max-width: 1387px;
+}}

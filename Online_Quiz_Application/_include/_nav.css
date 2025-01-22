@@ -1,0 +1,36 @@
+  /* Add custom styles for the navbar */
+  .navbar {
+    padding: 10px;
+  }
+
+  .navbar-brand {
+    font-size: 24px;
+    font-weight: bold;
+  }
+
+  .navbar-nav .nav-link {
+    font-size: 18px;
+    color: #fff;
+    margin-right: 10px;
+    transition: color 0.3s ease;
+  }
+
+  .navbar-nav .nav-link:hover {
+    color: #e6e6e6;
+  }
+
+  .navbar-logo {
+    /* width: 40px; */
+    /* height: 40px; */
+    border-radius: 50%;
+    object-fit: cover;
+
+    
+  }
+
+
+  .navbar-logo {
+    width: 53px;
+    height: auto;
+    margin-right: 13px;
+  }

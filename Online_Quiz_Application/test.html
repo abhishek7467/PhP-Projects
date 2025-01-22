@@ -1,0 +1,60 @@
+
+
+
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Chart Example</title>
+    <!-- Include Chart.js library -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <!-- Add CSS styling -->
+    <!-- <link rel="stylesheet" href="styles.css"> -->
+</head>
+<body>
+    <!-- Chart container -->
+    <div class="chart-container">
+        <canvas id="myChart"></canvas>
+    </div>
+    
+    <!-- Include the JavaScript code here -->
+    <script>
+
+
+
+
+
+
+// Dummy data for marks and totalQuiz
+var marks = [85, 92, 78, 90, 88];
+var totalQuiz = [10, 10, 10, 10, 10];
+// Create the chart
+var ctx = document.getElementById('myChart').getContext('2d');
+var myChart = new Chart(ctx, {
+    type: 'bar',
+    data: {
+        labels: ['Marks', 'Total Quiz'],
+        datasets: [{
+            label: 'Results',
+            data: [marks, totalQuiz],
+            backgroundColor: [
+                'rgba(75, 192, 192, 0.2)',
+                'rgba(54, 162, 235, 0.2)'
+            ],
+            borderColor: [
+                'rgba(75, 192, 192, 1)',
+                'rgba(54, 162, 235, 1)'
+            ],
+            borderWidth: 1
+        }]
+    },
+    options: {
+        responsive: true
+    }
+});
+
+</script>
+</body>
+</html>
